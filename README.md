@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - twitter_ios_starter
 
 twitter_ios_starter is a basic twitter app to read your tweets.
 
